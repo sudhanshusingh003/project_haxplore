@@ -23,7 +23,7 @@ The Online Temple Booking System is a web-based application designed to facilita
 
 #### 1. Clone the repository:
 
-    git clone https://github.com/Mukulgoel457/project_haxplore.git
+    git clone https://github.com/sudhanshusingh003/project_haxplore.git
     cd project_haxplore
 
 #### 2. Install the server dependencies and start the server:
